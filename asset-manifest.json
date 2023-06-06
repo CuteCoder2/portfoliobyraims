@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/CuteCoder2/portfoliobyraims/static/css/main.91297235.css",
+    "main.js": "/CuteCoder2/portfoliobyraims/static/js/main.d555508c.js",
+    "static/media/tripguide.png": "/CuteCoder2/portfoliobyraims/static/media/tripguide.991986c795ea140ba063.png",
+    "static/media/herobg.png": "/CuteCoder2/portfoliobyraims/static/media/herobg.ad33add2430e34307c33.png",
+    "static/media/carrent.png": "/CuteCoder2/portfoliobyraims/static/media/carrent.6b1e855ede285c40b77f.png",
+    "static/media/jobit.png": "/CuteCoder2/portfoliobyraims/static/media/jobit.755da7149642fd049273.png",
+    "static/media/web.png": "/CuteCoder2/portfoliobyraims/static/media/web.c0cb2cc13791a26822d3.png",
+    "static/media/backend.png": "/CuteCoder2/portfoliobyraims/static/media/backend.08c8d93b8142c41a9e63.png",
+    "static/media/drf.png": "/CuteCoder2/portfoliobyraims/static/media/drf.58fdf724026a3832212b.png",
+    "static/media/mobile.png": "/CuteCoder2/portfoliobyraims/static/media/mobile.15e7b89f1018dcdba6e7.png",
+    "static/media/creator.png": "/CuteCoder2/portfoliobyraims/static/media/creator.f8923ce18390029928ac.png",
+    "static/media/starbucks.png": "/CuteCoder2/portfoliobyraims/static/media/starbucks.c086db5b166ea2f14de1.png",
+    "static/media/github.png": "/CuteCoder2/portfoliobyraims/static/media/github.ed1c06d925fff0b57e32.png",
+    "static/media/logo.ico": "/CuteCoder2/portfoliobyraims/static/media/logo.4fe75d5f9adb18067b85.ico",
+    "static/media/close.svg": "/CuteCoder2/portfoliobyraims/static/media/close.8de6460f269d97bdef87c899c2b54e45.svg",
+    "static/media/menu.svg": "/CuteCoder2/portfoliobyraims/static/media/menu.a14e08da817ed339d3849bc81037592d.svg",
+    "index.html": "/CuteCoder2/portfoliobyraims/index.html",
+    "main.91297235.css.map": "/CuteCoder2/portfoliobyraims/static/css/main.91297235.css.map",
+    "main.d555508c.js.map": "/CuteCoder2/portfoliobyraims/static/js/main.d555508c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91297235.css",
+    "static/js/main.d555508c.js"
+  ]
+}
